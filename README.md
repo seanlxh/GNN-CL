@@ -11,7 +11,7 @@ torch==1.9.0
 python==3.8.8
 
 
-<code>python ../main.py --gpu=2 --imbalance --dataset=cora --model=sage --umsample=danger_upsample</code>
+<code>python main.py --gpu=2 --imbalance --dataset=cora --model=sage --umsample=danger_upsample</code>
 
 If any problems occurs via running this code, please contact us at lixiaohe@aircas.ac.cn.
 
