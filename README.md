@@ -1,4 +1,4 @@
-# GraphSmote
+# GNN-CL
 Pytorch implementation of paper ['Graph Neural Network with Curriculum Learning for Imbalanced Node Classification.'] submmited to Neurocomputing.
 
 ## Dependencies
